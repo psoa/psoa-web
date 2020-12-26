@@ -1,0 +1,17 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+
+body {
+    background-color: #141414;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15pt;
+    font-weight: 300 !important;
+    letter-spacing: -0.025em;
+    line-height: 1.75em;
+}
+
+.jumbotron {
+    background-color: #282828;
+    margin-top: 15px;
+    text-align: center;
+}
