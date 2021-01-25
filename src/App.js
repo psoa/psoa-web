@@ -1,12 +1,21 @@
 import './App.css';
-import Sidebar from './components/Sidebar'
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import PsoaNavbar from './components/PsoaNavBar'
+import Intro from './components/Intro'
+import Education from './components/Education'
+import Experience from './components/Experience';
+
 
 function App() {
   return (
-    
     <div>
-      <Sidebar></Sidebar>
-      </div>
+      <PsoaNavbar></PsoaNavbar>
+      <div class="clearfix"></div>
+        <Intro></Intro>
+      <Education></Education>
+      <Experience></Experience>
+    </div>
+
   );
 }
 
