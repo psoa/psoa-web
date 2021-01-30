@@ -14,8 +14,8 @@ export default class Experience extends Component {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="2007 - "
-              iconStyle={{ width: '15px', height: '15px', background: '#d92cf9', color: '#fff' }}
-              
+              iconStyle={{ width: '15px', height: '15px', background: '#8f00ff', color: '#fff' }}
+              visible="true"
             >
               <h3 className="vertical-timeline-element-title">B3 - Especialista em desenvolvimento de software</h3>
               <h4 className="vertical-timeline-element-subtitle">São Paulo, SP / Estocolmo</h4>
@@ -33,7 +33,8 @@ export default class Experience extends Component {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="2003 - 2007"
-              iconStyle={{ width: '15px', height: '15px', background: '#d92cf9', color: '#fff' }}
+              iconStyle={{ width: '15px', height: '15px', background: '#8f00ff', color: '#fff' }}
+              visible="true"
               
             >
               <h3 className="vertical-timeline-element-title">S&L Consulting - Empreendedor</h3>
@@ -50,7 +51,8 @@ export default class Experience extends Component {
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="2001 - 2003"
-              iconStyle={{ width: '15px', height: '15px', background: '#d92cf9', color: '#fff' }}
+              iconStyle={{ width: '15px', height: '15px', background: '#8f00ff', color: '#fff' }}
+              visible="true"
               
             >
               <h3 className="vertical-timeline-element-title">IG - Programador</h3>
