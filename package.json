@@ -8,6 +8,7 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "bootstrap": "^4.3.1",
+    "firebase": "^8.3.2",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-bootstrap-validation": "^0.1.11",
@@ -16,6 +17,7 @@
     "react-scripts": "4.0.1",
     "react-vertical-timeline-component": "^3.3.1",
     "styled-components": "^4.3.2",
+    "validator": "^3.43.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
